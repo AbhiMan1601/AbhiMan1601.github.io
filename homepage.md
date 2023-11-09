@@ -19,5 +19,6 @@ As EigenLayer mentions in their blog, "The core idea behind threshold cryptograp
 <b>Study Time : Day 1 to Day 4</b><i>(I am here right now)</i>
 
 <b>Buidl TIme : Day 4 to Day 9</b>
+
 <b>Push commit : Day 9 and Day 10</b>
 

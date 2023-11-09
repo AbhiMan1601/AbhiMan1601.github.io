@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 <h1>EIGENLAYER FELLOWSHIP : Open Source and Public Contribution</h1>
 
 My work in this project and in general, will be based on Cryptoeconomic Security, which EigenLayer defines as "A security model that uses economic incentives and cryptography to ensure the proper functioning and security of a network"
